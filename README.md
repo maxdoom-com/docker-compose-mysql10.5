@@ -14,7 +14,7 @@ You might copy these conventient-files as well:
 - shell-db ... opens a shell in the database host
 
 
-Predefined database condig
+Predefined database config
 ========================================================================
 
 See your .env - file.
