@@ -1,6 +1,6 @@
 FROM alpine:3.14
 
-RUN apk add mariadb mariadb-client
+RUN apk add mariadb mariadb-client bash mc
 
 RUN mysql_install_db --user=mysql
 EXPOSE 3306
