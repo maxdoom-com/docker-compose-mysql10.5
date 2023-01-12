@@ -1,7 +1,7 @@
 version: "3"
 services:
    database:
-       build: https://github.com/maxdoom-com/docker-compose-alpine3.14-mysql10.5.git
+       build: https://github.com/maxdoom-com/docker-compose-mysql10.5.git
        env_file: .env
        ports:
            - "3306:3306"
