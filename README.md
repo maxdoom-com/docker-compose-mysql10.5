@@ -12,3 +12,9 @@ Use the database as described in `docker-compose.yml`.
 You might copy these conventient-files as well:
 
 - shell-db ... opens a shell in the database host
+
+
+Predefined database condig
+========================================================================
+
+See your .env - file.
